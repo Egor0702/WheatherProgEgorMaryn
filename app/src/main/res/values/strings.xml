@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string-array name="name_town">
+        <item>Санкт-Петербург</item>
+        <item>Москва</item>
+        <item>Кудрово</item>
+        <item>Мурино</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+        <item>Казань</item>
+        <item>Нижний Новгород</item>
+        <item>Челябинск</item>
+        <item>Самара</item>
+        <item>Омск</item>
+        <item>Ростов-на-Дону</item>
+        <item>Уфа</item>
+        <item>Красноярск</item>
+        <item>Воронеж</item>
+        <item>Пермь</item>
+        <item>Волгоград</item>
+        <item>Краснодар</item>
+        <item>Саратов</item>
+        <item>Тюмень</item>
+        <item>Тольятти</item>
+        <item>Ижевск</item>
+        <item>Барнаул</item>
+        <item>Ульяновск</item>
+        <item>Иркутск</item>
+        <item>Хабаровск</item>
+        <item>Махачкала</item>
+        <item>Ярославль</item>
+        <item>Владивосток</item>
+        <item>Оренбург</item>
+        <item>Томск</item>
+        <item>Кемерово</item>
+        <item>Новокузнецк</item>
+        <item>Рязань</item>
+        <item>Набережные Челны</item>
+        <item>Астрахань</item>
+        <item>Шанхай</item>
+        <item>Пекин</item>
+        <item>Мумбаи</item>
+        <item>Стамбул</item>
+        <item>Карачи</item>
+        <item>Гуанчжоу</item>
+        <item>Токио</item>
+        <item>Лагос</item>
+        <item>Париж</item>
+        <item>Лондон</item>
+        <item>Рим</item>
+        <item>Милан</item>
+        <item>Нью-Йорк</item>
+        <item>Лос-Анджелес</item>
+        <item>Амстердам</item>
+        <item>Прага</item>
+    </string-array>
+
+</resources>
